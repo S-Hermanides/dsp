@@ -33,4 +33,4 @@ print(pmf.Mean(), biased_pmf.Mean())
 
 The difference in means is about 1.38 kids per household, so quite large. The difference in PMF is most prominent for households without kids, which makes sense considering that those will not be able to make it into the biased sample.
 
-![Comparison of biased vs actual PMF](images/bias.png)
+![Comparison of biased vs actual PMF](./images/bias.png)
