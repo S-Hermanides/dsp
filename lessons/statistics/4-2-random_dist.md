@@ -18,6 +18,5 @@ thinkplot.Cdf(cdf)
 
 The straight line in the CDF shows that the data is indeed uniform
 
-![PMF of random numbers](./images/4-2_pmf.png)
+For the output plot see Capter4_ex2.ipynb
 
-![CDF of same](./images/4-2_cdf.png)
