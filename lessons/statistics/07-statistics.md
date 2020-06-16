@@ -99,7 +99,11 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>I had to do some reading on this topic. The source I found most enlightening were posts on [probabilisticworld](probabilisticworld.com). This is my understanding after reading:
+>
+>Frequentist statistics has a very rigorous methodology to evaluate probabilities for things that are repeatable. It does not assign probability to a single event, but to the **frequency** of outcomes after many repetitions of the same event. Frequentist statistics provide of parameters and uncertainty measurements.
+>
+>Bayesian statistics has no problem assigning probabilities to single events using the available information and provides methods (based on **Bayes' Theorem** ) for updating these probabilities and distributions as observations become available. This narrows down the distribution ever closer to the true (but unknown) value. The up-to-date distribution can be used for prediction and other purposes
 
 ---
 
